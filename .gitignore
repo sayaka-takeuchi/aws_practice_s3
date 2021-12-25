@@ -1,0 +1,13 @@
+.idea
+*.iml
+
+venv/
+*_pb2.py
+*_pb2_grpc.py
+run_ssh.bat
+
+__pycache__
+
+node_modules
+.DS_Store
+.env
